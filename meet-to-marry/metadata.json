@@ -1,0 +1,6 @@
+{
+  "name": "Meet to Marry - Wedding Organizer & Rundown Planner",
+  "description": "Platform komprehensif manajemen pernikahan, rundown hari-H presisi, pelacak vendor & anggaran, serta buku tamu digital RSVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
